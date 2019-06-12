@@ -1,0 +1,19 @@
+{
+  "name": "note-taking-api-nodejs",
+  "version": "1.0.0",
+  "description": "Never miss a thing in Life. Take notes quickly. Organize and keep track of all your notes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoniaRMK/Note-Taking-API-NodeJS.git"
+  },
+  "author": "Sonia RM Karungi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoniaRMK/Note-Taking-API-NodeJS/issues"
+  },
+  "homepage": "https://github.com/SoniaRMK/Note-Taking-API-NodeJS#readme"
+}
