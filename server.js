@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
     });
 });
 
-// Require users and Notes routes
+// Notes routes
 require('./app/routes/note.routes.js')(app);
 
 // listen for requests
